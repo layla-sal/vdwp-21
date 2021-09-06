@@ -1,0 +1,11 @@
+.subheading {
+  text-align: left;
+}
+.content {
+  text-align: left;
+}
+.ContactForm {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}

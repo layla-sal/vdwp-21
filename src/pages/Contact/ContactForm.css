@@ -1,0 +1,20 @@
+label.form-label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+textarea {
+  resize: both;
+}
+form.form {
+  background: rgb(166, 196, 244);
+  padding: 20px;
+  border-radius: 20px;
+}
+.submitButton {
+  background: white;
+  border: none;
+  border-radius: 10px;
+  padding: 13px;
+  color: black;
+  margin-top: 10px;
+}
